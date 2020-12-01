@@ -7,6 +7,7 @@
 <p align="center">
   <img src=".gh-assets/screenshare-4.png?raw=true" />
 </p>
+
 ## :computer: Instalação
 
 Primeiro, certifique-se de ter o Expo CLI instalado: `npm install -g expo-cli`
