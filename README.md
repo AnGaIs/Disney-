@@ -4,9 +4,7 @@
 
 [![follow @angaisdev](https://img.shields.io/twitter/follow/angaisdev.svg?style=for-the-badge&logo=TWITTER&logoColor=FFFFFF&labelColor=00aced&logoWidth=20&color=lightgray)](https://twitter.com/angaisdev)
 
-<p align="center">
-  <img src=".gh-assets/screenshare-4.png?raw=true" />
-</p>
+![Disney](https://github.com/AnGaIs/Disney-/blob/master/src/assets/screenshare-4.png)
 
 ## :computer: Instalação
 
